@@ -1,4 +1,4 @@
-site_name: TTF TechWriting Es0505
+site_name: Documentazioni TTF Technical Writing 2025
 theme:
   name: material
   features:
@@ -17,8 +17,8 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
-      primary: teal
-      accent: purple 
+      primary: dark blue
+      accent: light blue 
     - scheme: slate 
       toggle:
         icon: material/toggle-switch

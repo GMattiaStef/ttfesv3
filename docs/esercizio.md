@@ -1,4 +1,5 @@
 # Tone of Voice
+## 10/04/2025
 
 - L'articolo affronta l'argomento del Tone of Voice, **il modo con cui un brand sceglie di comunicare al suo pubblico**. Questo comprende il linguaggio utilizzato, ma anche la scelta di immagini, umorismo, emoji, colori...
 - Curare il ToV permette al brand di rafforzare la sua identità, stimolando una connessione col pubblico, ispirando fiducia e simulando un'interazione più "reale" e umana.
