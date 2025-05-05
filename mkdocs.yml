@@ -33,11 +33,11 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/james-willett
+      link: ""
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/TheJamesWillett
+      link: ""
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/willettjames/
+      link: ""
 
 markdown_extensions:
   - pymdownx.highlight:
